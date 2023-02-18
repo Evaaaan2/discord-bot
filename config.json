@@ -1,0 +1,19 @@
+{
+    "token": "MTA3NjU0MzA2OTk3NDk1ODIxMg.GUzAh3.CQdWX_w62pPTYWP0GRPoTbkBJ_qjSvj38vTb88",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
